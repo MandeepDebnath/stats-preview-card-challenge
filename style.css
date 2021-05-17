@@ -105,6 +105,7 @@ h1 .highlight{
 .attribution {
     margin: 30px auto;
     font-size: 12px;
+    padding: 0 20px;
     font-family: 'Lexend Deca', sans-serif;
 }
 .attribution a{
@@ -155,9 +156,9 @@ h1 .highlight{
     }
 }
 
-/* @media only screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
     .card-content p{
         width: auto;
     }
 }
- */
+
