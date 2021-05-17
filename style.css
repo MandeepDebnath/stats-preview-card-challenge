@@ -104,12 +104,13 @@ h1 .highlight{
 
 .attribution {
     margin: 30px auto;
-    text-align: center;
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
 }
 .attribution a{
     text-decoration: none;
     color: var(--accent);
-    font-family: 'Lexend Deca', sans-serif;
+    
 }
 
 @media only screen and (min-width: 900px){
