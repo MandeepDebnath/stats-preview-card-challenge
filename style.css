@@ -104,8 +104,8 @@ h1 .highlight{
 
 .attribution {
     margin: 30px auto;
-    font-size: 12px;
-    padding: 0 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-family: 'Lexend Deca', sans-serif;
 }
 .attribution a{
