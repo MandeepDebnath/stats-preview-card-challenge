@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-challenge-2h4UrhfHM
+- Live Site URL: [Add live site URL here](https://mandeepdebnath.github.io/stats-preview-card-challenge/)
 
 ## My process
 
