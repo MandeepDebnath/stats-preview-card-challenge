@@ -153,3 +153,9 @@ h1 .highlight{
         display: block;
     }
 }
+
+@media only screen and (max-width: 500px) {
+    .card-content p{
+        width: auto;
+    }
+}
